@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Minesweeper/task" />
+            <option value="$PROJECT_DIR$/Problems/Adding values" />
+            <option value="$PROJECT_DIR$/Problems/Cinema" />
+            <option value="$PROJECT_DIR$/Problems/Currencies" />
+            <option value="$PROJECT_DIR$/Problems/Danger levels" />
+            <option value="$PROJECT_DIR$/Problems/Generate random numbers" />
+            <option value="$PROJECT_DIR$/Problems/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Problems/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Problems/Rotate a rectange array" />
+            <option value="$PROJECT_DIR$/Problems/Spiral" />
+            <option value="$PROJECT_DIR$/Problems/The LIFO principle in action" />
+            <option value="$PROJECT_DIR$/Problems/The secret enumeration" />
+            <option value="$PROJECT_DIR$/Problems/Which brackets are balanced" />
+            <option value="$PROJECT_DIR$/Problems/Working with queue" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
